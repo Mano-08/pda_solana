@@ -14,7 +14,6 @@ The program supports:
 
 - Initializing a PDA account
 - Incrementing the stored counter
-- Enforcing authority checks
 
 ## Build
 
